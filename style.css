@@ -28,6 +28,7 @@ body {
     background-size:cover;
     margin:-10px 0 15px 0;
     height:50vh;
+    max-height:350px;
 }
 
 header, #content, footer  {
